@@ -21,10 +21,9 @@
 <div class="container mt-5"> 
   
   <h3 class="text-center mb-5" style="font-weight: 800; font-size: 35px">
-    Cómo (Sumar - Quitar) Dia, Mes y Año a una fecha con PHP <strong>Archivo</strong> 
+    Cómo (Sumar - Restar) Dia, Mes y Año a una fecha con PHP <strong>Archivo</strong> 
     <hr>
   </h3>
-Como-agregar-Dia-Mes-Year-a-Fecha-con-PHP
 
 <div class="row text-center">
     <div class="col-md-6">
