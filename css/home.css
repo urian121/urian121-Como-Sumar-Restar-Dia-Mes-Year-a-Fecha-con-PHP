@@ -1,0 +1,35 @@
+      #dia{
+        color: #FF5722;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #mes{
+        color: #FFC107;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #year{
+        color: #8BC34A;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #diaUno{
+        color: #009688;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #mesDos{
+        color: #2196F3;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #yearDos{
+        color: #9c27b0;
+        font-size: 16px;
+        font-weight: bold;
+      }
+      #titleP{
+        background: coral;
+        color: #fff;
+        font-size:20px;
+      }
